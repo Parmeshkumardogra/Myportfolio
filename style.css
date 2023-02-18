@@ -1,0 +1,136 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#header img{
+    width: 100px;
+    height: 40px;
+    margin-left: 10%;
+    
+    border-radius: 15px;
+    border: 10px solid;
+    
+}
+#header ul{
+    position: absolute;
+    right: 10%;
+    display: inline-block;
+}
+#header li{
+    
+    padding-right: 10px;
+    display: inline-block;
+    
+}
+#header li a{
+    color: white;
+    text-decoration: none;
+}
+#header li a:hover{
+    color: #F10086;
+}
+#header{
+    background-color: black;
+}
+.top-image{
+    
+    position: relative;
+}
+.top-image img{
+    height: 500px;
+    width: 100%;
+}
+.heading{
+    text-align: center;
+    position: absolute;
+    left: 42%;
+    
+    top: 40%;    
+}
+.backimage img{
+    position: absolute;
+    top: -35%;
+    right: -5%;
+    width: 700px;
+    height: 700px;
+    
+}
+.center{
+    padding-top: 30px;
+}
+.middle-container{
+    background-color: #E8F9FD;
+    margin-top: -19px;
+}
+.middle-container img{
+    width: 100px;
+    height: 100px;
+}
+.section-one h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.section-one div{
+    display: inline-block;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.section-two ul{
+    list-style: none;
+    display: inline-block;
+}
+.section-two li{
+    line-height: 2;
+}
+.section-three .img1{
+    width: 200px;
+    height: 200px;
+    padding-right: 20px;
+}
+.section-three h2{
+    padding-bottom: 30px;
+}
+.bottom-container{
+    background-color:#355764;
+    
+}
+
+.links{
+    position: absolute;
+    left: 10%;
+    padding-top: 123px;
+    
+}
+.links p{
+    color: white;
+}
+.links li{
+    display: inline-block;
+    line-height: 2;
+    padding-right: 10px;
+    
+}
+.links a{
+    color: white;
+}
+.about{
+    display: inline-block;
+    color: white;
+    line-height: 2;
+    text-align: justify;
+    width: 30%;
+    padding-left: 65%;
+    
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
